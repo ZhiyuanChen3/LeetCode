@@ -1,0 +1,9 @@
+Map -- HashMap
+put(key, value);
+get(key) --> value;
+containsKey(key);
+
+Set -- HashSet
+add(value) --> true if added successfully
+		   --> false if added element exists
+ 
